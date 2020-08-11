@@ -1,4 +1,4 @@
-# M5_PyBer
+# PyBer
 ## Summary
 Module 5 Challenge utilizes pandas functions and matlabplot inorder to look at ride-sharing data. The goals of the challenge include:
 
